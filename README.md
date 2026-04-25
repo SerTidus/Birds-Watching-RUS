@@ -91,7 +91,7 @@ https://yoomoney.ru/to/4100119519743533 - Юмани
 
 ![Перевод кат-сцены](screenshots/Пример_2.png)
 
-![В игре](screenshots/Пример_4.png)
+![В игре](screenshots/Пример_9.png)
 
 Остальные скриншота в папке screenshots
 
