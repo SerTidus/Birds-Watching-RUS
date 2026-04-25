@@ -87,11 +87,11 @@ https://yoomoney.ru/to/4100119519743533 - Юмани
 
 ## Скриншоты
 
-![Перевод меню](screenshots/пример_1.png)
+![Перевод меню](screenshots/Пример_1.png)
 
-![Перевод кат-сцены](screenshots/пример_2.png)
+![Перевод кат-сцены](screenshots/Пример_2.png)
 
-![В игре](screenshots/пример_3.png)
+![В игре](screenshots/Пример_3.png)
 
 Остальные скриншота в папке screenshots
 
